@@ -1,4 +1,4 @@
 <?php
 function wpb_issue_ssl($domain) {
-    // Issue SSL logic
+    // Stub: SSL issuing logic (Certbot or Cloudflare API)
 }
